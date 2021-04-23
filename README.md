@@ -1,2 +1,2 @@
 # assessment
-あなたのいいところ診断ゲーム　practice
+terayumiが作ったあなたのいいところ診断ゲーム　practice
